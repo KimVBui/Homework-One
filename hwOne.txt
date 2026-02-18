@@ -1,1 +1,4 @@
 Hello, my name is Kimberly and I am working on hw1
+
+Hello, our names are "Kimberly" and “Ryan” and we are working on
+hw4 together
